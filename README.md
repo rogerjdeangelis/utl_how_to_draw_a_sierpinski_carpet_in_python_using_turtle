@@ -1,0 +1,2 @@
+# utl_how_to_draw_a_sierpinski_carpet_in_python_using_turtle
+How to draw a sierpinski carpet in python using turtle graphics.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning.
